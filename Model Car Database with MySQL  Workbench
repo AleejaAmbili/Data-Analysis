@@ -1,0 +1,29 @@
+# 🚗 Model Car Database Analysis (MySQL Workbench)
+
+## Overview
+This project analyzes an automobile model inventory database using SQL to uncover sales trends, overstocked items, and data-driven recommendations for inventory optimization.
+
+## Key Features
+- Imported and explored the relational model car database in MySQL Workbench.
+- Executed SQL queries using `SELECT`, `WHERE`, `GROUP BY`, `HAVING`, and `ORDER BY`.
+- Summarized product performance by product line and sales.
+- Identified overstocked models and recommended inventory reduction strategies.
+
+## Tools Used
+- MySQL Workbench
+- SQL
+
+## Example Insights
+- Classic Cars have the highest inventory but slower turnover.
+- Motorcycles generate the most revenue per model.
+- Some models have >1.5 inventory-to-sales ratio — ideal candidates for clearance.
+
+## Recommendations
+- Reduce reorder frequency for slow sellers.
+- Offer promotions to clear overstocked items.
+- Increase availability of top-performing models.
+
+## Files
+- `SQL_Scripts/`: Contains all query files.
+- `Results/`: Contains insights and screenshots.
+- `README.md`: Project documentation.
