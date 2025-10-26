@@ -55,7 +55,7 @@ Processed and visualized large-scale engagement data to uncover audience trends 
 ### 📈 Current Focus
 - Building end-to-end data analytics projects
 - Improving Power BI dashboards
-- Strengthening SQL proficiency for business analytics
+- Strengthening SQL proficiency 
 
 ---
 
