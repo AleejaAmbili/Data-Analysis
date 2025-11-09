@@ -1,0 +1,22 @@
+QuickBite_Crisis_Recovery_Dashboard/
+│
+├── 📄 README.md
+├── 📊 QUICKBITE CRISIS IMPACT REPORT.pbix
+├── 📽️ QUICKBITE CRISIS IMPACT REPORT.pptx
+│
+├── 📁 Data/
+│   ├── dim_customer.csv
+│   ├── dim_delivery_partner.csv
+│   ├── dim_menu_item.csv
+│   ├── dim_restaurant.csv
+│   ├── fact_delivery_performance.csv
+│   ├── fact_order_items.csv
+│   ├── fact_orders.csv
+│   └── fact_ratings.csv
+│
+├── 📁 Docs/
+│   ├── Primary_and_Secondary_Analysis.pdf
+│   ├── metadata.txt
+│   └── RPC_18_Problem_Statement.pdf
+
+
